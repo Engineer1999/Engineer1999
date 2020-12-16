@@ -1,7 +1,7 @@
-<h1 align="center"> Hey! <img src="https://giphy.com/gifs/filmeditor-christmas-movies-macaulay-culkin-xUySTQZfdpSkIIg88M" width="35px">, Bhargav here!</h1>
+<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, Bhargav here!</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif">
+<img src="Images/hello.gif">
 </p>
 
 - 😄 I'm a final year student and undergraduate researcher at [Ahmedabad University](ahduni.edu.in)
