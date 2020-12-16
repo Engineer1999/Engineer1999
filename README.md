@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, Bhargav here!</h1>
 
-<!--
-**Engineer1999/Engineer1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif">
+</p>
 
-Here are some ideas to get you started:
+- 😄 I'm a final year student and undergraduate researcher at [Ahmedabad University](ahduni.edu.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as an AI intern at [Truminds Software System](https://www.truminds.com/)
+
+- 🌱 I’m currently diving deep into deep learning.
+
+- 👯 I am mentor at [Coffe Hours Club]{https://www.coffeehours.club/}
+
+- 💬 Scedule a session on Coffe Houes Club for the topic related to deep learning [here]{https://calendly.com/bhargavpatel/coffeehourssessions?month=2020-12}
+
+- 📄 Know about me :- [here](https://www.kickresume.com/cv/Bhargav-Patel/)
+
+
+<h3 align="left">Connect with me:</h3>
+Feel free to reach out to me on LinkedIn for anything!
+<p align="left">
+<a href="https://www.linkedin.com/in/bhargav-p-patel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhargav-p-patel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bhargav.p.patel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bhargav.p.patel" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Engineer1999&show_icons=true&locale=en&layout=compact" alt="Engineer1999" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Engineer1999&show_icons=true&locale=en" alt="Engineer1999" /></p>
+
+
+
+
