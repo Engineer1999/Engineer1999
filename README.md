@@ -4,11 +4,11 @@
 <img src="Images/tenor.gif">
 </p>
 
-- 😄 I'm a final year student and undergraduate researcher at [Ahmedabad University](ahduni.edu.in)
+- 🔭 I’m currently working as an Software Engineer at [Truminds Software System](https://www.truminds.com/)
 
-- 🔭 I’m currently working as an AI intern at [Truminds Software System](https://www.truminds.com/)
+- 😄 I graduated from [Ahmedabad University](ahduni.edu.in) in 2021 with a degree in Information and Communication Technology.
 
-- 🌱 I’m currently diving deep into deep learning.
+- 🌱 I’m curious about NFT, Metavers, and Artificial Inteligence. 
 
 - 👯 I am mentor at [Coffe Hours Club](https://www.coffeehours.club/})
 - 💬 Scedule a session on Coffe Houes Club for the topic related to deep learning [here](https://calendly.com/bhargavpatel/coffeehourssessions?month=2020-12)
