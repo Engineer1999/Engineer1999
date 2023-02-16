@@ -52,3 +52,4 @@ Bhargav</a></h1>
 <!-- BLOG-POST-LIST:END -->
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Engineer1999&show_icons=true&locale=en&layout=compact" alt="Engineer1999" /></p>
