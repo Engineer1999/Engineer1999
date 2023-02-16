@@ -3,7 +3,7 @@ Bhargav</a></h1>
 <h3 align="center">A Software Engineer with Expertise in Machine Learning Research and Operations &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif">
+  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif">
 </a>
 
 
