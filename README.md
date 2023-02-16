@@ -5,7 +5,7 @@ Bhargav</a></h1>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif">
 </a>
-<img src="path/in/repository/to/image.svg" width="128"/>
+
 
 - 🔭 I’m currently working as Jr. Staff AI Engineer at [Detect Technologies](https://detecttechnologies.com/)
 
