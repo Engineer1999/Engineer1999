@@ -31,13 +31,13 @@ Bhargav</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Engineer1999">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@callbhargavp">
-					<img src=""></a>
+					<img src="https://github.com/Engineer1999/Engineer1999/blob/main/Images/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/bhargav.p.patel/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Bhargav_P28">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/Engineer1999/Engineer1999/blob/main/Resume/Bhargav_Patel_Software_Engineer_Resume.pdf">
+					<img src="https://github.com/Engineer1999/Engineer1999/blob/main/Images/resume_sketch.jpg" ></a>
       </div>
 
 </p>
