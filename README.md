@@ -19,7 +19,7 @@ Bhargav</a></h1>
 
 - 📫 How to reach me **callbhargavp@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/Engineer1999/Engineer1999/blob/main/Resume/Bhargav_Patel_Software_Engineer_Resume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -31,7 +31,7 @@ Bhargav</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Engineer1999">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@callbhargavp">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+					<img src=""></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/bhargav.p.patel/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Bhargav_P28">
