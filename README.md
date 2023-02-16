@@ -1,8 +1,7 @@
-<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, Bhargav here!</h1>
 
-<p align="center">
-<img src="Images/tenor.gif">
-</p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)">
+</a>
 
 - 🔭 I’m currently working as Jr. Staff AI Engineer at [Detect Technologies](https://detecttechnologies.com/)
 
