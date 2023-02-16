@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/bhargav-p-patel" target="blank">
 Bhargav</a></h1>
 <h3 align="center">A Software Engineer with Expertise in Machine Learning Research and Operations &#127470;&#127475</h3>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
-</a>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif">
+</a>
+<img src="path/in/repository/to/image.svg" width="128"/>
 
 - 🔭 I’m currently working as Jr. Staff AI Engineer at [Detect Technologies](https://detecttechnologies.com/)
 
