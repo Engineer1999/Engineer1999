@@ -13,7 +13,7 @@
 
 - 🔭 I'm currently working as MLOPs Engineer at [Fractal Analytics](https://fractal.ai/)
 - 📝 I regularly write articles on [medium@callbhargavp](https://medium.com/@callbhargavp)
-- 😄 I graduated from [Ahmedabad University](ahduni.edu.in) in 2021 with a degree in Information and Communication Technology
+- 😄 I graduated from [Ahmedabad University](https://ahduni.edu.in/) in 2021 with a degree in Information and Communication Technology
 - 🌱 I work with technologies such as Tensorflow, Pytorch, Tensorflow Extended, Python, Docker, Kubernetes, AWS, GCP
 - 🌱 I'm curious about Artificial Intelligence, Machine Learning Operations, and Green Technology
 - 📫 How to reach me: **callbhargavp@gmail.com**
