@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Engineer1999&include_all_commits=true)
-
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/bhargav-p-patel" target="blank">Bhargav</a></h1>
 <h3 align="center">A Software Engineer with Expertise in Machine Learning Research & Operations &#127470;&#127475;</h3>
 
