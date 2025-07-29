@@ -20,11 +20,23 @@
 - 📄 Know about my experiences: <a href="https://github.com/Engineer1999/Engineer1999/blob/main/Resume/Bhargav_Patel_Software_Engineer_Resume.pdf" target="blank">Resume</a>
 
 
-## 📝 Latest Blog Posts
+## 🌐 Featured Resource: [HorizonX.live](https://horizonx.live)
 
-- [Unlock the Power of ChatGPT: Boost Your Productivity as a Software Engineer](https://medium.com/@callbhargavp/unlock-the-power-of-chatgpt-boost-your-productivity-as-a-software-engineer-89c3c206c324)
-- [Intro to TFX: Unleash the Power of Machine Learning (Part 1)](https://medium.com/@callbhargavp/intro-to-tfx-unleash-the-power-of-machine-learning-part-1-309c9c43b06b)
-- [10 MLOps Tools to Transform Your Machine Learning Workflow](https://medium.com/@callbhargavp/10-mlops-tools-to-transform-your-machine-learning-workflow-4a0e4f7bb264)
+**Supercharge your research and innovation workflow with HorizonX — the AI-powered platform transforming how science happens.**
+
+- 🔍 Instantly discover high-quality papers.
+- 🤖 Brainstorm breakthrough ideas with an AI collaborator.
+- 🗂️ Build and annotate your research library.
+- 📚 Accelerate literature reviews with a context-aware AI engine.
+- 📑 Streamline citations and formatting for journal compliance.
+- ✔️ Access automated pre-publication checks and high-performance computing.
+- and much more......
+
+> From individuals to research teams—HorizonX has flexible plans for every stage of your scientific journey.
+
+**Try HorizonX now:** [https://horizonx.live](https://horizonx.live)
+
+*Accelerate your innovation. Shape the future of research.*
 
 ## 📊 GitHub Stats
 
