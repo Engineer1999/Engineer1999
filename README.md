@@ -16,20 +16,20 @@
 -->
 
 <div align="center">
-  <h1 align="center">Hey there, I'm <a href="https://linkedin.com/in/bhargav-p-patel" target="_blank">Bhargav Patel</a> 👋</h1>
+  <h1>Bhargav Patel</h1>
 
-  <!-- Dynamic Animated Typing Header -->
+  <!-- Animated Typing Header -->
   <a href="https://cloud.google.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=4285F4&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=750&height=50&lines=AI+Forward+Deployed+Engineer+%40+Google+Cloud+%E2%98%81%EF%B8%8F;Agentic+AI+Systems+%26+Enterprise+LLM+Orchestration+%F0%9F%A4%96;From+Working+Prototype+to+Resilient+Production+%E2%9A%A1;Author+of+3+Peer-Reviewed+International+ML+Papers+%F0%9F%93%9A;Invited+Speaker+at+100%2B+AI+%26+ML+Events+in+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Bhargav Patel - Animated Role Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=4285F4&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=750&height=50&lines=AI+Forward+Deployed+Engineer+%40+Google+Cloud;Agentic+AI+Systems+%26+LLM+Orchestration;Enterprise+RAG+%26+Multi-Agent+Architecture;Production+ML+Engineering+%26+MLOps;3+Peer-Reviewed+International+ML+Papers" alt="Bhargav Patel - Role and Focus" />
   </a>
 
-  <p align="center">
-    <strong>Engineering at the intersection of applied artificial intelligence and mission-critical enterprise delivery.</strong><br>
-    <em>Specializing in Agentic AI systems, LLM orchestration, and taking systems from prototype to production-grade reliability.</em>
+  <p>
+    <strong>AI Forward Deployed Engineer at Google Cloud India</strong><br>
+    Specializing in agentic AI systems, LLM orchestration, and taking systems from prototype to production-grade reliability.
   </p>
 
-  <!-- Top Socials & Professional Badges -->
-  <p align="center">
+  <!-- Social & Professional Links -->
+  <p>
     <a href="https://linkedin.com/in/bhargav-p-patel" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -39,7 +39,7 @@
     </a>
     &nbsp;
     <a href="https://medium.com/@callbhargavp" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" />
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
     &nbsp;
     <a href="https://cloud.google.com/" target="_blank">
@@ -55,128 +55,102 @@
     </a>
   </p>
 
-  <!-- Profile Visitor Counter -->
-  <p align="center">
+  <!-- Visitor Counter -->
+  <p>
     <img src="https://komarev.com/ghpvc/?username=Engineer1999&color=4285f4&style=flat-square&label=Profile+Views" alt="Profile views counter" />
   </p>
 
-  <!-- Preserved Profile GIF -->
-  <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="600" alt="Coding GIF animation" />
+  <!-- Coding GIF -->
+  <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="600" alt="Coding animation" />
 </div>
 
 ---
 
-## ⚡ Executive Overview
+## About
 
-```yaml
-engineer: Bhargav Patel
-current_role: AI Forward Deployed Engineer
-organization: Google Cloud India 🇮🇳
-focus_areas:
-  - Agentic AI Systems & Multi-Agent Orchestration
-  - Production RAG Lifecycles (Retrieval, Routing, Tool Use & Reliability)
-  - Rigorous LLM Evaluation & Observability (LangSmith, Langfuse, OpenTelemetry)
-  - High-Throughput MLOps & Distributed Cloud Infrastructure (GKE, Vertex AI)
-track_record:
-  - 3 International Peer-Reviewed ML Publications
-  - 100+ Speaking Engagements across India
-  - Mentored 500+ Engineers & Student Builders
-motto: "Accuracy, latency, and safety must be engineered and measured — never assumed."
-```
+I work at the intersection of artificial intelligence and enterprise delivery. As an AI Forward Deployed Engineer at Google, my focus is agentic AI systems, LLM orchestration, and the discipline of taking these systems from working prototypes into solutions that businesses can depend on in production.
 
-> I work at the intersection of artificial intelligence and enterprise delivery. As an **AI Forward Deployed Engineer at Google**, my focus is **agentic AI systems and LLM orchestration**, and the engineering discipline of taking these systems from an experimental prototype into something an enterprise business can depend on in production with complete confidence.
+Before Google, I worked at Fractal Analytics building agentic RAG workflows and multi-agent systems on GCP using Vertex AI and GKE. This work covered the full lifecycle: retrieval, routing, tool use, scoring, and reliability. I built evaluation and observability into every system using LangSmith, OpenTelemetry, Langfuse, and LangWatch, ensuring that accuracy, latency, and safety were measured rather than assumed. A recent project was an agentic RFP evaluator with Model Context Protocol (MCP) server interfaces, deployed through Cloud Build CI/CD and rolled out in phases with client infrastructure teams.
+
+Earlier in my career, as a Junior Staff AI Engineer at Detect Technologies, I built MLOps and deep learning products on AWS using Python, TensorFlow, and Kubernetes, with computer vision and video analytics at the core. At Truminds Software Systems, I led machine learning initiatives spanning computer vision model benchmarking and MLOps platform development, building pipelines with TensorFlow Extended (TFX), Airflow, and PyTorch, and optimizing models using ONNX, TensorRT, and Apache Kafka.
+
+I graduated from Ahmedabad University in 2021 with a B.Tech in Information and Communication Technology.
 
 ---
 
-## 💼 Career Milestones & Engineering Impact
+## Experience
 
 <table>
   <tr>
-    <td width="25%" valign="top">
+    <td width="28%" valign="top">
       <strong>Google Cloud</strong><br>
-      <em>AI Forward Deployed Engineer</em><br>
-      <code>Current</code> 🇮🇳
+      AI Forward Deployed Engineer<br>
+      <em>Current</em>
     </td>
-    <td width="75%">
-      Deploying production-grade <strong>Agentic AI architectures</strong> and foundation model solutions for enterprise clients. Architecting autonomous reasoning loops, model context interfaces, and multi-agent coordination frameworks backed by Google Cloud's enterprise infrastructure.
+    <td width="72%">
+      Deploying production-grade agentic AI systems and foundation model solutions for enterprise clients. Architecting autonomous reasoning loops, model context interfaces, and multi-agent coordination frameworks backed by Google Cloud infrastructure.
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top">
+    <td width="28%" valign="top">
       <strong>Fractal Analytics</strong><br>
-      <em>AI Engineer</em><br>
-      <code>GCP • Vertex AI • GKE</code>
+      AI Engineer<br>
+      <em>GCP • Vertex AI • GKE</em>
     </td>
-    <td width="75%">
-      Built end-to-end <strong>Agentic RAG workflows</strong> and multi-agent systems on Google Cloud Platform covering the entire lifecycle: <em>retrieval, dynamic routing, tool use, scoring, and reliability</em>.
+    <td width="72%">
+      Built end-to-end agentic RAG workflows and multi-agent systems on Google Cloud Platform covering retrieval, routing, tool use, scoring, and reliability.
       <ul>
-        <li>Engineered full observability and automated evaluation using <strong>LangSmith, OpenTelemetry, Langfuse, and LangWatch</strong> so accuracy, latency, and safety were continuously verified.</li>
-        <li>Architected an <strong>agentic RFP evaluator with Model Context Protocol (MCP) server interfaces</strong>, deployed through Cloud Build CI/CD and rolled out in phases with client infrastructure teams.</li>
+        <li>Engineered observability and evaluation suites using <strong>LangSmith, OpenTelemetry, Langfuse, and LangWatch</strong> for continuous verification of accuracy, latency, and safety.</li>
+        <li>Architected an agentic RFP evaluator with <strong>Model Context Protocol (MCP)</strong> server interfaces, deployed via Cloud Build CI/CD and rolled out with client infrastructure teams.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top">
+    <td width="28%" valign="top">
       <strong>Detect Technologies</strong><br>
-      <em>Junior Staff AI Engineer</em><br>
-      <code>AWS • MLOps • Vision</code>
+      Junior Staff AI Engineer<br>
+      <em>AWS • MLOps • Vision</em>
     </td>
-    <td width="75%">
-      Architected enterprise MLOps and deep learning pipelines on <strong>AWS and Kubernetes</strong>, with large-scale <strong>computer vision and real-time video analytics</strong> serving industrial safety and monitoring systems.
+    <td width="72%">
+      Built MLOps and deep learning products on AWS using Python, TensorFlow, and Kubernetes, focusing on large-scale computer vision and real-time video analytics for industrial safety monitoring.
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top">
+    <td width="28%" valign="top">
       <strong>Truminds Software Systems</strong><br>
-      <em>Machine Learning Engineer</em><br>
-      <code>TFX • Airflow • TensorRT</code>
+      Machine Learning Engineer<br>
+      <em>TFX • Airflow • TensorRT</em>
     </td>
-    <td width="75%">
-      Led machine learning initiatives spanning computer vision benchmarking and MLOps platform development. Built production pipelines using <strong>TensorFlow Extended (TFX), Apache Airflow, and PyTorch</strong>, optimizing edge inference with <strong>ONNX, TensorRT, and Apache Kafka</strong>.
+    <td width="72%">
+      Led machine learning initiatives spanning computer vision benchmarking and MLOps platform development. Built production pipelines with TensorFlow Extended (TFX), Apache Airflow, and PyTorch, optimizing edge inference with ONNX, TensorRT, and Apache Kafka.
     </td>
   </tr>
 </table>
 
 ---
 
-## 📚 Research Publications & Community Leadership
+## Publications & Speaking
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>📑 3 International Publications</h3>
-        <p>Documented peer-reviewed research in applied machine learning published in international venues:</p>
-        <p align="left">
-          🔹 <strong>Image Compression:</strong> Neural image compression and perceptual reconstruction.<br>
-          🔹 <strong>Fraud Detection:</strong> Anomaly detection and financial fraud prevention using ML.<br>
-          🔹 <strong>Signal Estimation:</strong> Statistical learning models for complex signal processing.
-        </p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🎙️ 100+ Speaking Engagements</h3>
-        <p>Keynotes, workshops, and technical talks delivered across premier institutions and tech summits in India:</p>
-        <p align="left">
-          🎤 Topics: <em>Agentic AI, LLM Evaluation, Production MLOps, Vertex AI, and Distributed Training</em>.<br>
-          🌱 Active mentor to engineering teams, open-source contributors, and student developers nationwide.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+### Peer-Reviewed Publications
+Documented research in applied machine learning published in international venues:
+- **Neural Image Compression:** Architectures for image compression and perceptual reconstruction.
+- **Fraud Detection:** Machine learning applications in anomaly detection and financial security.
+- **Signal Estimation:** Statistical learning models for complex signal estimation.
+
+### Community & Speaking
+- Invited speaker at over 100 machine learning, MLOps, and AI events across India, focusing on agentic architectures, LLM evaluation, and production systems.
+- Active mentor to engineers and student developers working in applied AI and machine learning.
 
 ---
 
-## 🏗️ Layer-Wise Agentic Tech Stack
+## Technical Stack
 
 <div align="center">
-  <p><em>From autonomous reasoning agents down to hardware accelerators & telemetry fabric.</em></p>
-</div>
 
-### 🧠 Layer 1: Agentic Orchestration & Protocols
-> *Autonomous decision-making, planning, tool-calling execution, and protocol interfaces.*
+### Layer 1: Agentic Orchestration & Protocols
+Autonomous decision-making, planning, tool execution, and protocol interfaces.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Vertex_AI_Agents-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI Agent Builder" />
   <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-2B3137?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol (MCP)" />
@@ -187,10 +161,10 @@ motto: "Accuracy, latency, and safety must be engineered and measured — never 
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
-### 🔬 Layer 2: Core Machine Learning & Acceleration
-> *Distributed training, fine-tuning, computer vision, video analytics, and hardware optimization.*
+### Layer 2: Machine Learning & Inference Optimization
+Distributed training, fine-tuning, computer vision, and hardware acceleration.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/NVIDIA_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA TensorRT" />
@@ -200,10 +174,10 @@ motto: "Accuracy, latency, and safety must be engineered and measured — never 
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
 </p>
 
-### 🛡️ Layer 3: Evaluation, Telemetry & Observability
-> *Continuous evaluation, latency benchmarking, trace visualization, and production guardrails.*
+### Layer 3: Evaluation, Telemetry & Observability
+Continuous evaluation, latency benchmarking, trace visualization, and production guardrails.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/LangSmith-01C380?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
   <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge" alt="Langfuse" />
   <img src="https://img.shields.io/badge/LangWatch-6366F1?style=for-the-badge" alt="LangWatch" />
@@ -211,10 +185,10 @@ motto: "Accuracy, latency, and safety must be engineered and measured — never 
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 </p>
 
-### 🔍 Layer 4: Vector Memory & Semantic Search (RAG)
-> *Long-term memory, embedding stores, hybrid search, and grounding engines.*
+### Layer 4: Vector Storage & Retrieval (RAG)
+Embedding stores, hybrid retrieval, and knowledge grounding.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Vertex_Vector_Search-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI Vector Search" />
   <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
@@ -222,23 +196,23 @@ motto: "Accuracy, latency, and safety must be engineered and measured — never 
   <img src="https://img.shields.io/badge/PostgreSQL_(pgvector)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL pgvector" />
 </p>
 
-### ☁️ Layer 5: Cloud & Container Orchestration
-> *Enterprise containerization, Kubernetes clusters, scalable compute, and deployment pipelines.*
+### Layer 5: Cloud & Container Orchestration
+Container runtimes, Kubernetes clusters, scalable compute, and deployment pipelines.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
   <img src="https://img.shields.io/badge/Vertex_AI-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/GKE_(Google_Kubernetes_Engine)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Kubernetes Engine" />
+  <img src="https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Kubernetes Engine" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Cloud_Build-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Build" />
   <img src="https://img.shields.io/badge/Kubeflow-007D9C?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow" />
 </p>
 
-### 📊 Layer 6: Enterprise Data Pipelines & Streaming
-> *Massive-scale analytical query engines, distributed stream ingestion, and feature storage.*
+### Layer 6: Data Pipelines & Streaming
+Analytical query engines, distributed stream ingestion, and feature storage.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google BigQuery" />
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
@@ -247,10 +221,10 @@ motto: "Accuracy, latency, and safety must be engineered and measured — never 
   <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore" />
 </p>
 
-### 🛠️ Layer 7: Infrastructure as Code & Continuous Delivery
-> *Declarative infrastructure, reproducible pipelines, and configuration management.*
+### Layer 7: Infrastructure as Code & CI/CD
+Declarative infrastructure, reproducible pipelines, and configuration management.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
@@ -258,16 +232,18 @@ motto: "Accuracy, latency, and safety must be engineered and measured — never 
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="GNU Bash" />
 </p>
 
-### 💻 Layer 8: Languages & Runtimes
-> *High-performance backend systems, asynchronous runtimes, and algorithmic scripting.*
+### Layer 8: Languages & Runtimes
+Backend services, asynchronous runtimes, and algorithmic scripting.
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,bash" alt="Programming Languages: Python, TypeScript, JavaScript, Java, Go, Bash" />
 </p>
 
+</div>
+
 ---
 
-## 📈 Engineering Pulse & GitHub Analytics
+## GitHub Activity
 
 <div align="center">
   <table border="0">
@@ -286,4 +262,3 @@ motto: "Accuracy, latency, and safety must be engineered and measured — never 
     </tr>
   </table>
 </div>
-
