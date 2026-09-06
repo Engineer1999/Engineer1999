@@ -287,38 +287,3 @@ motto: "Accuracy, latency, and safety must be engineered and measured — never 
   </table>
 </div>
 
----
-
-## 🤝 Let's Connect & Build
-
-Whether you want to discuss multi-agent systems, evaluate production LLM architectures, or collaborate on deep learning research, my inbox is always open.
-
-<div align="center">
-  <p>
-    <a href="https://linkedin.com/in/bhargav-p-patel/" target="_blank">
-      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn Profile" height="38" width="38" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Engineer1999" target="_blank">
-      <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub Profile" height="38" width="38" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://medium.com/@callbhargavp" target="_blank">
-      <img src="https://github.com/Engineer1999/Engineer1999/blob/main/Images/external-blog-online-services-sketchy-sketchy-juicy-fish.png" alt="Medium Publication" height="38" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/Bhargav_P28" target="_blank">
-      <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter / X Profile" height="38" width="38" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:callbhargavp@gmail.com">
-      <img src="https://img.icons8.com/fluent/48/000000/mail.png" alt="Direct Email" height="38" width="38" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Engineer1999/Engineer1999/blob/main/Resume/Bhargav_Patel_Software_Engineer_Resume.pdf" target="_blank">
-      <img src="https://github.com/Engineer1999/Engineer1999/blob/main/Images/resume_sketch.jpg" alt="Download Resume" height="38" />
-    </a>
-  </p>
-
-  <p><em>Built with continuous curiosity & engineered for production impact. 🚀</em></p>
-</div>
