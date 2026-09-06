@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as MLOPs Engineer at [Fractal Analytics](https://fractal.ai/)
+- 🔭 I'm currently working as AI Forward Deployed Engineer at [Google](https://cloud.google.com/)
 - 📝 I regularly write articles on [medium@callbhargavp](https://medium.com/@callbhargavp)
 - 😄 I graduated from [Ahmedabad University](https://ahduni.edu.in/) in 2021 with a degree in Information and Communication Technology
 - 🌱 I work with technologies such as Tensorflow, Pytorch, Tensorflow Extended, Python, Docker, Kubernetes, AWS, GCP
