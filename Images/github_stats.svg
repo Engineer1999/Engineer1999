@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="150" viewBox="0 0 620 150" fill="none">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b27" />
+      <stop offset="100%" stop-color="#16161e" />
+    </linearGradient>
+    <linearGradient id="slotBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#24283b" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#1f2335" stop-opacity="0.8" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#7dcfff" stop-opacity="0.4" />
+    </linearGradient>
+    <style>
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 700; fill: #7aa2f7; letter-spacing: 0.5px; }
+      .stat-num { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 26px; font-weight: 800; }
+      .stat-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 600; fill: #a9b1d6; }
+      .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; fill: #565f89; }
+      .fade-in { animation: fadeIn 0.8s ease-in-out forwards; }
+      @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+
+  <!-- Background Card -->
+  <rect x="1" y="1" width="618" height="148" rx="14" fill="url(#cardBg)" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  <!-- Card Header -->
+  <g transform="translate(25, 26)">
+    <!-- GitHub Octocat Icon -->
+    <path fill="#7aa2f7" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+    <text x="24" y="13" class="title">ENGINEERING ACTIVITY &amp; IMPACT</text>
+  </g>
+
+  <!-- 3 Stats Columns -->
+  <!-- Column 1: Total Stars -->
+  <g transform="translate(25, 48)">
+    <rect width="175" height="82" rx="10" fill="url(#slotBg)" stroke="#2ac3de" stroke-opacity="0.25" stroke-width="1"/>
+    <!-- Star Icon -->
+    <g transform="translate(16, 16)">
+      <path fill="#e0af68" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
+    </g>
+    <text x="40" y="30" class="stat-num" fill="#e0af68">11.5k+</text>
+    <text x="16" y="52" class="stat-label">Total Stars Earned</text>
+    <text x="16" y="68" class="badge-text">Across All Repositories</text>
+  </g>
+
+  <!-- Column 2: Total Forks -->
+  <g transform="translate(222, 48)">
+    <rect width="175" height="82" rx="10" fill="url(#slotBg)" stroke="#7aa2f7" stroke-opacity="0.25" stroke-width="1"/>
+    <!-- Fork Icon -->
+    <g transform="translate(16, 16)">
+      <path fill="#7aa2f7" fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h4.5A2.25 2.25 0 0012.5 6.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zM10.5 4a.75.75 0 100-1.5.75.75 0 000 1.5zm-3.25 6.75a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0V8.5h1.5v4.372z"/>
+    </g>
+    <text x="40" y="30" class="stat-num" fill="#7aa2f7">1.8k+</text>
+    <text x="16" y="52" class="stat-label">Total Forks</text>
+    <text x="16" y="68" class="badge-text">Community Clones &amp; Builds</text>
+  </g>
+
+  <!-- Column 3: Contributions in Last Year -->
+  <g transform="translate(420, 48)">
+    <rect width="175" height="82" rx="10" fill="url(#slotBg)" stroke="#9ece6a" stroke-opacity="0.25" stroke-width="1"/>
+    <!-- Flame / Contribution Icon -->
+    <g transform="translate(16, 16)">
+      <path fill="#9ece6a" fill-rule="evenodd" d="M8 1.5c-2.363 1.898-4 4.646-4 7.5 0 2.761 2.239 5 5 5s5-2.239 5-5c0-.987-.285-1.908-.778-2.686-.339.818-.949 1.488-1.722 1.886.256-1.517-.22-3.159-1.5-4.7-.27.876-.814 1.636-1.543 2.136C9.97 4.148 9.24 2.687 8 1.5z"/>
+    </g>
+    <text x="40" y="30" class="stat-num" fill="#9ece6a">58</text>
+    <text x="16" y="52" class="stat-label">Contributions</text>
+    <text x="16" y="68" class="badge-text">In The Last Year</text>
+  </g>
+</svg>

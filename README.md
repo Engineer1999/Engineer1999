@@ -95,7 +95,6 @@ motto: "Accuracy, latency, and safety must be engineered and measured — never 
     <td width="25%" valign="top">
       <strong>Google Cloud</strong><br>
       <em>AI Forward Deployed Engineer</em><br>
-      <code>Current</code> 🇮🇳
     </td>
     <td width="75%">
       Deploying production-grade <strong>Agentic AI architectures</strong> and foundation model solutions for enterprise clients. Architecting autonomous reasoning loops, model context interfaces, and multi-agent coordination frameworks backed by Google Cloud's enterprise infrastructure.
@@ -167,123 +166,109 @@ motto: "Accuracy, latency, and safety must be engineered and measured — never 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <p><em>From autonomous reasoning agents down to hardware accelerators & telemetry fabric.</em></p>
+
+  <h3 align="center">🧠 Layer 1: Agentic Orchestration & Protocols</h3>
+  <p align="center"><em>Autonomous decision-making, planning, tool-calling execution, and protocol interfaces.</em></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+    <img src="https://img.shields.io/badge/Vertex_AI_Agents-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI Agent Builder" />
+    <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-2B3137?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol (MCP)" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+    <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+    <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  </p>
+
+  <h3 align="center">🔬 Layer 2: Core Machine Learning & Acceleration</h3>
+  <p align="center"><em>Distributed training, fine-tuning, computer vision, video analytics, and hardware optimization.</em></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/NVIDIA_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA TensorRT" />
+    <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
+    <img src="https://img.shields.io/badge/vLLM-008080?style=for-the-badge&logo=vllm&logoColor=white" alt="vLLM" />
+    <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" alt="Ray" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  </p>
+
+  <h3 align="center">🛡️ Layer 3: Evaluation, Telemetry & Observability</h3>
+  <p align="center"><em>Continuous evaluation, latency benchmarking, trace visualization, and production guardrails.</em></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/LangSmith-01C380?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
+    <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge" alt="Langfuse" />
+    <img src="https://img.shields.io/badge/LangWatch-6366F1?style=for-the-badge" alt="LangWatch" />
+    <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  </p>
+
+  <h3 align="center">🔍 Layer 4: Vector Memory & Semantic Search (RAG)</h3>
+  <p align="center"><em>Long-term memory, embedding stores, hybrid search, and grounding engines.</em></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Vertex_Vector_Search-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI Vector Search" />
+    <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB" />
+    <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Vector" />
+    <img src="https://img.shields.io/badge/PostgreSQL_(pgvector)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL pgvector" />
+  </p>
+
+  <h3 align="center">☁️ Layer 5: Cloud & Container Orchestration</h3>
+  <p align="center"><em>Enterprise containerization, Kubernetes clusters, scalable compute, and deployment pipelines.</em></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
+    <img src="https://img.shields.io/badge/Vertex_AI-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+    <img src="https://img.shields.io/badge/GKE_(Google_Kubernetes_Engine)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Kubernetes Engine" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Cloud_Build-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Build" />
+    <img src="https://img.shields.io/badge/Kubeflow-007D9C?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow" />
+  </p>
+
+  <h3 align="center">📊 Layer 6: Enterprise Data Pipelines & Streaming</h3>
+  <p align="center"><em>Massive-scale analytical query engines, distributed stream ingestion, and feature storage.</em></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google BigQuery" />
+    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+    <img src="https://img.shields.io/badge/Cloud_Dataflow-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Dataflow" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore" />
+  </p>
+
+  <h3 align="center">🛠️ Layer 7: Infrastructure as Code & Continuous Delivery</h3>
+  <p align="center"><em>Declarative infrastructure, reproducible pipelines, and configuration management.</em></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+    <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="GNU Bash" />
+  </p>
+
+  <h3 align="center">💻 Layer 8: Languages & Runtimes</h3>
+  <p align="center"><em>High-performance backend systems, asynchronous runtimes, and algorithmic scripting.</em></p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,bash" alt="Programming Languages: Python, TypeScript, JavaScript, Java, Go, Bash" />
+  </p>
 </div>
-
-### 🧠 Layer 1: Agentic Orchestration & Protocols
-> *Autonomous decision-making, planning, tool-calling execution, and protocol interfaces.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Vertex_AI_Agents-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI Agent Builder" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-2B3137?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol (MCP)" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-</p>
-
-### 🔬 Layer 2: Core Machine Learning & Acceleration
-> *Distributed training, fine-tuning, computer vision, video analytics, and hardware optimization.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/NVIDIA_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA TensorRT" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
-  <img src="https://img.shields.io/badge/vLLM-008080?style=for-the-badge&logo=vllm&logoColor=white" alt="vLLM" />
-  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" alt="Ray" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-</p>
-
-### 🛡️ Layer 3: Evaluation, Telemetry & Observability
-> *Continuous evaluation, latency benchmarking, trace visualization, and production guardrails.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LangSmith-01C380?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
-  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge" alt="Langfuse" />
-  <img src="https://img.shields.io/badge/LangWatch-6366F1?style=for-the-badge" alt="LangWatch" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-</p>
-
-### 🔍 Layer 4: Vector Memory & Semantic Search (RAG)
-> *Long-term memory, embedding stores, hybrid search, and grounding engines.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Vertex_Vector_Search-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI Vector Search" />
-  <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Vector" />
-  <img src="https://img.shields.io/badge/PostgreSQL_(pgvector)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL pgvector" />
-</p>
-
-### ☁️ Layer 5: Cloud & Container Orchestration
-> *Enterprise containerization, Kubernetes clusters, scalable compute, and deployment pipelines.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
-  <img src="https://img.shields.io/badge/Vertex_AI-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/GKE_(Google_Kubernetes_Engine)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Kubernetes Engine" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Cloud_Build-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Build" />
-  <img src="https://img.shields.io/badge/Kubeflow-007D9C?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow" />
-</p>
-
-### 📊 Layer 6: Enterprise Data Pipelines & Streaming
-> *Massive-scale analytical query engines, distributed stream ingestion, and feature storage.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google BigQuery" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Cloud_Dataflow-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Dataflow" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore" />
-</p>
-
-### 🛠️ Layer 7: Infrastructure as Code & Continuous Delivery
-> *Declarative infrastructure, reproducible pipelines, and configuration management.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="GNU Bash" />
-</p>
-
-### 💻 Layer 8: Languages & Runtimes
-> *High-performance backend systems, asynchronous runtimes, and algorithmic scripting.*
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,bash" alt="Programming Languages: Python, TypeScript, JavaScript, Java, Go, Bash" />
-</p>
 
 ---
 
-## 📈 Engineering Pulse & GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com?user=Engineer1999&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contribution Streak" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Engineer1999&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Engineer1999&theme=tokyonight" alt="Language Distribution Stats" width="85%" />
-      </td>
-    </tr>
-  </table>
+  <img src="./Images/github_stats.svg" alt="GitHub Stats: 11.5k+ Total Stars, 1.8k+ Total Forks, 58 Contributions in Last Year" width="620" />
+  <br><br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Total%20Stars-11.5k%2B-e0af68?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Total%20Forks-1.8k%2B-7aa2f7?style=for-the-badge&logo=git&logoColor=white" alt="Total Forks" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Contributions%20(Last%20Year)-58-9ece6a?style=for-the-badge&logo=githubactions&logoColor=white" alt="Contributions in Last Year" />
+  </p>
 </div>
 
