@@ -1,261 +1,223 @@
-<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/bhargav-p-patel" target="blank">Bhargav</a></h1>
-<h3 align="center">A Software Engineer with Expertise in Machine Learning Research & Operations &#127470;&#127475;</h3>
+<!--
+  SEO & GEO Metadata:
+  Name: Bhargav Patel
+  Title: AI Forward Deployed Engineer at Google Cloud India
+  Location: Bengaluru, India | Gujarat, India
+  Keywords: Bhargav Patel, Engineer1999, Google Cloud India, AI Forward Deployed Engineer, Agentic AI, Autonomous Agents, LLM Orchestration, LangChain, LlamaIndex, CrewAI, Gemini, Vertex AI, BigQuery, MLOps, PyTorch, TensorFlow, Machine Learning, Deep Learning, Cloud Architecture
+-->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Engineer1999&color=0e75b6&style=flat" alt="Profile views">
-</div>
+  <h1 align="center">Hey there, I'm <a href="https://linkedin.com/in/bhargav-p-patel" target="_blank">Bhargav Patel</a> 👋</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="600" alt="GIF">
-</div>
-
-## 🚀 About Me
-
-- 🔭 I'm currently working as AI Forward Deployed Engineer at [Google](https://cloud.google.com/)
-- 📝 I regularly write articles on [medium@callbhargavp](https://medium.com/@callbhargavp)
-- 😄 I graduated from [Ahmedabad University](https://ahduni.edu.in/) in 2021 with a degree in Information and Communication Technology
-- 🌱 I work with technologies such as Tensorflow, Pytorch, Tensorflow Extended, Python, Docker, Kubernetes, AWS, GCP
-- 🌱 I'm curious about Artificial Intelligence, Machine Learning Operations, and Green Technology
-- 📫 How to reach me: **callbhargavp@gmail.com**
-- 📄 Know about my experiences: <a href="https://github.com/Engineer1999/Engineer1999/blob/main/Resume/Bhargav_Patel_Software_Engineer_Resume.pdf" target="blank">Resume</a>
-
-
-## 🌐 Featured Resource: [HorizonX.live](https://horizonx.live)
-
-**Supercharge your research and innovation workflow with HorizonX — the AI-powered platform transforming how science happens.**
-
-- 🔍 Instantly discover high-quality papers.
-- 🤖 Brainstorm breakthrough ideas with an AI collaborator.
-- 🗂️ Build and annotate your research library.
-- 📚 Accelerate literature reviews with a context-aware AI engine.
-- 📑 Streamline citations and formatting for journal compliance.
-- ✔️ Access automated pre-publication checks and high-performance computing.
-- and much more......
-
-> From individuals to research teams—HorizonX has flexible plans for every stage of your scientific journey.
-
-**Try HorizonX now:** [https://horizonx.live](https://horizonx.live)
-
-*Accelerate your innovation. Shape the future of research.*
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Engineer1999&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engineer1999&layout=compact&hide_border=true" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Engineer1999&bg_color=ffffff&color=000000&line=0891b2&point=000000&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-## 💻 Tech Stack
-
-### Languages & Libraries
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>
-        <strong>Python</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/><br>
-        <strong>Java</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/><br>
-        <strong>JavaScript</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/><br>
-        <strong>TypeScript</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/><br>
-        <strong>Bash</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### AI/ML & Data Science
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/><br>
-        <strong>TensorFlow</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>
-        <strong>PyTorch</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/scikit-learn.svg" alt="Scikit-learn" width="50" height="50"/><br>
-        <strong>Scikit-learn</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/pandas-1.svg" alt="Pandas" width="50" height="50"/><br>
-        <strong>Pandas</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>
-        <strong>NumPy</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### AI Tools & Frameworks
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50"/><br>
-        <strong>ChatGPT</strong>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="50" height="50"/><br>
-        <strong>Gemini</strong>
-      </td>
-      <td align="center">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/><br>
-        <strong>Hugging Face</strong>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="50" height="50"/><br>
-        <strong>LangChain</strong>
-      </td>
-      <td align="center">
-        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>
-        <strong>LlamaIndex</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Containerization & Orchestration
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>
-        <strong>Docker</strong>
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>
-        <strong>Kubernetes</strong>
-      </td>
-      <td align="center">
-        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>
-        <strong>Helm</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50" height="50"/><br>
-        <strong>Ansible</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Cloud Providers
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>
-        <strong>AWS</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>
-        <strong>GCP</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>
-        <strong>Azure</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Infrastructure as Code
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>
-        <strong>Terraform</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="50" height="50"/><br>
-        <strong>Ansible</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub Actions" width="50" height="50"/><br>
-        <strong>GitHub Actions</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Databases
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>
-        <strong>MySQL</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>
-        <strong>PostgreSQL</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>
-        <strong>MongoDB</strong>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50"/><br>
-        <strong>Redis</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🤝 Connect with me
-
-<div align="center">
-  <a href="https://linkedin.com/in/bhargav-p-patel/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
+  <!-- Dynamic Animated Typing Header -->
+  <a href="https://cloud.google.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=4285F4&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=700&height=50&lines=AI+Forward+Deployed+Engineer+%40+Google+Cloud+%E2%98%81%EF%B8%8F;Building+Autonomous+Agentic+AI+Systems+%F0%9F%A4%96;Enterprise+GenAI+%26+Production+LLMs+%E2%9A%A1;MLOps+%C3%97+Cloud+Infrastructure+at+Scale+%F0%9F%9A%80;Engineering+from+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Bhargav Patel - Animated Role Banner" />
   </a>
-  <a href="https://github.com/Engineer1999" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" height="40" width="40" />
-  </a>
-  <a href="https://medium.com/@callbhargavp" target="_blank">
-    <img src="https://github.com/Engineer1999/Engineer1999/blob/main/Images/external-blog-online-services-sketchy-sketchy-juicy-fish.png" height="40" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/bhargav.p.patel/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/Bhargav_P28" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://github.com/Engineer1999/Engineer1999/blob/main/Resume/Bhargav_Patel_Software_Engineer_Resume.pdf" target="_blank">
-    <img src="https://github.com/Engineer1999/Engineer1999/blob/main/Images/resume_sketch.jpg" height="40" alt="Resume" />
-  </a>
+
+  <p align="center">
+    <strong>Architecting enterprise-grade Agentic AI, autonomous multi-agent workflows, and scalable MLOps platforms.</strong>
+  </p>
+
+  <!-- Top Socials & Professional Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/bhargav-p-patel" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/Bhargav_P28" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
+    </a>
+    &nbsp;
+    <a href="https://medium.com/@callbhargavp" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" />
+    </a>
+    &nbsp;
+    <a href="https://cloud.google.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Engineer1999/Engineer1999/blob/main/Resume/Bhargav_Patel_Software_Engineer_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+    </a>
+    &nbsp;
+    <a href="mailto:callbhargavp@gmail.com">
+      <img src="https://img.shields.io/badge/Email-34A853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  <!-- Visitor Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Engineer1999&color=4285f4&style=flat-square&label=Profile+Views" alt="Profile views counter" />
+  </p>
+
+  <!-- Preserved Profile GIF -->
+  <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="600" alt="Coding GIF animation" />
 </div>
 
+---
+
+## ⚡ About Me
+
+```yaml
+name: Bhargav Patel
+role: AI Forward Deployed Engineer
+organization: Google Cloud India 🇮🇳
+focus_areas:
+  - Agentic AI & Autonomous Multi-Agent Workflows
+  - Enterprise Generative AI & High-Throughput Inference
+  - Scalable MLOps, Distributed Training & Kubernetes
+alma_mater: Ahmedabad University (B.Tech in ICT, 2021)
+writing: Deep-dives on AI & MLOps architectures at medium.com/@callbhargavp
+mission: "Bridging foundational AI research with resilient, real-world enterprise deployments."
+```
+
+- 🔭 **Current Focus:** Deploying state-of-the-art Agentic solutions, multimodal foundation models, and enterprise reasoning agents on **Google Cloud**.
+- 🤖 **Agentic Engineering:** Designing agent tool-calling loops, planning & reflection routines, multi-agent debate/collaboration protocols, and secure sandboxed runtime environments.
+- 📝 **Technical Writing:** I share blueprints on building resilient production systems on [Medium @callbhargavp](https://medium.com/@callbhargavp).
+- 🌱 **Passions:** Green computing, energy-efficient model serving, and open-source AI ecosystem growth.
+- 📫 **Direct Line:** Reach me anytime at **[callbhargavp@gmail.com](mailto:callbhargavp@gmail.com)** or via **[LinkedIn](https://linkedin.com/in/bhargav-p-patel)**.
+
+---
+
+## 🏗️ Layer-Wise Agentic Tech Stack
+
+<div align="center">
+  <p><em>Architected from reasoning agents down to hardware accelerators & cloud fabric.</em></p>
+</div>
+
+### 🧠 Layer 1: Agentic Orchestration & Cognitive Architectures
+> *Autonomous decision-making, planning, tool-use execution, and multi-agent coordination.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Vertex_AI_Agents-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI Agent Builder" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
+
+### 🔬 Layer 2: Core Machine Learning & Model Engineering
+> *Distributed training, fine-tuning (LoRA/QLoRA), evaluation, and model inference acceleration.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/vLLM-008080?style=for-the-badge&logo=vllm&logoColor=white" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" alt="Ray" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+### 🔍 Layer 3: Vector Memory & Semantic Search (RAG)
+> *Long-term associative memory, embedding stores, hybrid retrieval, and knowledge grounding.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Vertex_Vector_Search-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI Vector Search" />
+  <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Vector" />
+  <img src="https://img.shields.io/badge/PostgreSQL_(pgvector)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### ☁️ Layer 4: Cloud & Production MLOps Infrastructure
+> *Enterprise containerization, distributed orchestration, pipeline automation, and telemetry.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
+  <img src="https://img.shields.io/badge/Vertex_AI-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubeflow-007D9C?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+</p>
+
+### 📊 Layer 5: Enterprise Data & Analytics Fabric
+> *Massive-scale analytical query engines, data lakes, streaming pipelines, and persistence.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google BigQuery" />
+  <img src="https://img.shields.io/badge/Cloud_Dataflow-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Dataflow" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+### 🛠️ Layer 6: Infrastructure as Code & Continuous Delivery
+> *Declarative infrastructure, reproducible pipelines, configuration management, and GitOps.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="GNU Bash" />
+</p>
+
+### 💻 Layer 7: Languages & Runtimes
+> *High-performance system programming, microservices, asynchronous runtimes, and scripting.*
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,go,bash" alt="Programming Languages: Python, TypeScript, JavaScript, Java, Go, Bash" />
+</p>
+
+---
+
+## 📈 Engineering Pulse & GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com?user=Engineer1999&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Contribution Streak" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Engineer1999&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Engineer1999&theme=tokyonight" alt="Language Distribution Stats" width="85%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 Let's Collaborate & Innovate
+
+Whether you want to discuss agentic reasoning architectures, distributed training at scale, or collaborate on open-source initiatives, feel free to reach out!
+
+<div align="center">
+  <p>
+    <a href="https://linkedin.com/in/bhargav-p-patel/" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn Profile" height="38" width="38" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Engineer1999" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub Profile" height="38" width="38" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://medium.com/@callbhargavp" target="_blank">
+      <img src="https://github.com/Engineer1999/Engineer1999/blob/main/Images/external-blog-online-services-sketchy-sketchy-juicy-fish.png" alt="Medium Publication" height="38" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/Bhargav_P28" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter / X Profile" height="38" width="38" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:callbhargavp@gmail.com">
+      <img src="https://img.icons8.com/fluent/48/000000/mail.png" alt="Direct Email" height="38" width="38" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Engineer1999/Engineer1999/blob/main/Resume/Bhargav_Patel_Software_Engineer_Resume.pdf" target="_blank">
+      <img src="https://github.com/Engineer1999/Engineer1999/blob/main/Images/resume_sketch.jpg" alt="Download Resume" height="38" />
+    </a>
+  </p>
+
+  <p><em>Built with continuous curiosity & engineered for impact. 🚀</em></p>
+</div>
